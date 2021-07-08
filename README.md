@@ -1,4 +1,5 @@
 # Kaggle--House-Price-Prediction
+**"Predict the price of residental homes in Ames, Iowa with prediction error (RMSE) of 0.12887 using Regression Regularization Method"**
 My documentation of learning regression model from House Price Prediction Kaggle dataset. The objective is to predict house price with machine learning models.
 The notebook containing:
 1. Exploratory Data Analysis
