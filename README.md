@@ -11,6 +11,9 @@ The notebook containing:
  - Transforming skewed features
  - Feature engineering
 3. Modelling
+- Lasso Regression
+- Ridge Regression
+- Elastic Net
 
 
 
